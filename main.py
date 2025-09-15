@@ -1,6 +1,6 @@
 # 在这个文件里编写代码
 # 初始体重（单位：kg，可根据实际情况修改）
-initial_weight = 60  
+initial_weight = float(int())
 # 每年体重增长（单位：kg）
 annual_growth = 0.5  
 # 月球上的重量是地球上的比例
